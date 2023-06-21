@@ -5,4 +5,4 @@ Technologies:
 - SASS
 - BEM methodology.
 
-Demo link: 
+Demo link: https://ozwiena.github.io/met-landing/
