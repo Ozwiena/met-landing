@@ -1,4 +1,5 @@
-A landing page for MET Museum in New York
+A landing page (responsive design) for the Metropolitan Museum of Art in New York.
+
 Technologies:
 - HTML
 - CSS
